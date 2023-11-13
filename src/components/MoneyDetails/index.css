@@ -1,0 +1,63 @@
+.details-container {
+  list-style-type: none;
+  padding-left: 0px;
+  margin-top: 25px;
+  font-family: 'Roboto';
+  display: flex;
+  justify-content: space-between;
+  color: #475569;
+}
+
+.balance {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  border: 1px solid #84cc16;
+  background-color: #ecfccb;
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 8px;
+  width: 30%;
+}
+
+.income {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  border: 1px solid #06b6d4;
+  background-color: #cffafe;
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 8px;
+  width: 30%;
+}
+
+.expense {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  border: 1px solid #7c3aed;
+  background-color: #ede9fe;
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 8px;
+  width: 30%;
+}
+
+.amount {
+  font-size: 13px;
+}
+
+.balanceImg {
+  width: 90px;
+  padding-right: 10px;
+  margin-right: 10px;
+}
+
+.rupees {
+  font-size: 17px;
+  margin-top: 20px;
+}

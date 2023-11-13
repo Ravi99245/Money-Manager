@@ -1,0 +1,33 @@
+.transaction {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #d7dfe9;
+  border-top: none;
+  width: 90%;
+  padding-left: 10px;
+}
+
+.title-name {
+  color: #1e293b;
+  font-size: 13px;
+  width: 20%;
+}
+
+.title-name1 {
+  color: #1e293b;
+  font-size: 14px;
+  width: 20%;
+}
+
+.button1 {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.icon {
+  background-color: transparent;
+  border: none;
+  width: 25px;
+}
